@@ -3,23 +3,23 @@
 }
 
 body {
-    background-image: url(/assets/images/tile.jpg);
+    background-image: url(./assets/images/tile.jpg);
     text-align: center;
 }
 
 @font-face {
     font-family: "font1";
-    src: url(/assets/font/Toys\ Indonesia.otf);
+    src: url(./assets/font/Toys\ Indonesia.otf);
     
 }
 @font-face {
 
     font-family: "font2";
-    src: url(/assets/font/Yavome.ttf);
+    src: url(./assets/font/Yavome.ttf);
 }
 @font-face {
     font-family: "font3";
-    src: url(/assets/font/Lampunk.otf);
+    src: url(./assets/font/Lampunk.otf);
 }
 
 h1 {
@@ -32,7 +32,7 @@ form {
     width: 750px;
     border-radius: 15px;
     box-shadow: 10px 10px 30px gray;
-    background-image: url(/assets/images/formbg.jpg);
+    background-image: url(./assets/images/formbg.jpg);
 
 }
 
@@ -111,7 +111,7 @@ button:nth-of-type(2) {
     height: 240px;
     width: 180px;
     margin: 10px;
-    background-image: url(assets/images/notebg.png);
+    background-image: url(./assets/images/notebg.png);
 }
 
 .note:hover {
